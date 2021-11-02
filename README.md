@@ -9,7 +9,7 @@ Gazebo - sudo apt-get install ros-melodic-gazebo-ros
 # First exercise
 ## Clone, build and run the ROS package
 
-$ git clone 
+$ git clone https://github.com/wysh2503/simulation_ws
 $ cd simulation_ws
 $ git checkout URDF-1
 $ catkin_make
